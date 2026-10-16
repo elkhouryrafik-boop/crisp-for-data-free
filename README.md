@@ -2,7 +2,11 @@
 
 **Earn the right to build the pipeline — before touching any data.**
 
+[![Free on Agensi](https://img.shields.io/badge/Agensi-Free%20listing-6366f1)](https://www.agensi.io/skills/crisp-dm-phase-1-business-understanding)
+
 A free agent skill that forces twelve decision artifacts onto disk *before* any data is downloaded, then refuses to let the project advance until every one of them exists. Works with any coding agent that reads the `SKILL.md` convention — Claude Code, Codex CLI, Hermes, Cursor, Gemini CLI, Copilot, Windsurf.
+
+**▶ [Get this skill on Agensi](https://www.agensi.io/skills/crisp-dm-phase-1-business-understanding)** (free) — or clone it below.
 
 ---
 
@@ -77,7 +81,7 @@ Binary, not vibes.
 
 Phase 1 is the gate the whole cycle runs on. The complete suite — **Phases 0–6**: data acquisition, data understanding, preparation with a YAML data contract, the analytical core, evaluation with a go/no-go memo, and a FAIR/DOI release handoff — plus the contract validator, 52 deep-dive references and a fully worked example, is published on **Agensi**:
 
-**→ [crisp-for-data — the full suite on Agensi](https://www.agensi.io/users/rafik-elkhoury)**
+**→ [crisp-for-data — the full suite, $49](https://www.agensi.io/users/rafik-elkhoury)** · **→ [this free edition on Agensi](https://www.agensi.io/skills/crisp-dm-phase-1-business-understanding)**
 
 The free edition is deliberately self-contained but visibly incomplete: `crisp_status.py` names the next phase on every run, and `quality-gates.md` stops at the Phase 1 → 2 boundary with a pointer to the suite.
 
